@@ -1,0 +1,17 @@
+---
+# BEGIN
+server:
+  port : 7070
+
+spring:
+  output:
+    ansi:
+      enabled: always
+# END
+
+users:
+  admins:
+    - gjoinsey1@blogger.com
+    - scrosi4@cam.ac.uk
+    - scrosi4@cam.ac.uk
+
